@@ -15,9 +15,9 @@ Classes at UCSD I have taken:
 - [x] CSE21
 - [x] CSE30
 - [x] CSE100
-- [ ] CSE101
-- [ ] CSE110
-- [ ] CSE40/40L
+- [ ] CSE101 (current)
+- [ ] CSE110 (current)
+- [ ] CSE140/L (current)
 
 My favorite hobbies include:
 
