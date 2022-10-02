@@ -27,7 +27,7 @@ My favorite hobbies include:
 
 [Here](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/) is an article I read recently for class that was very enlightening and changed the way I view software engineering.
 
-Check out my [ReadMe](/add-read-me/README.md)
+Check out my [ReadMe](/README.md)
 
 Here are some random memes:
 
